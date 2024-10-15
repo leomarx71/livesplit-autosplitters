@@ -21,7 +21,7 @@ With the autosplitter set, when you start the first race it will start the timer
 
 # How to find us
 
-We are at [e-mail](games@leomarx.com)! There's also an english speaking community [here](https://discord.gg/BbecSMqFeF).
+We are at games@leomarx.com . There's also an english speaking community [here](https://discord.gg/BbecSMqFeF) and a portuguese one [here](https://discord.gg/fnjD7jFp)
 
 If you're still having trouble contact me by e-mail or discord (Leomarx Games) or open an Issue.
 
