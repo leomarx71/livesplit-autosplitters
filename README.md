@@ -28,4 +28,5 @@ If you're still having trouble contact me by e-mail or discord (Leomarx Games) o
 # Credits
 
 Based on the original by [@rulojuka](https://github.com/rulojuka), found at https://github.com/rulojuka/LiveSplitAutoSplitters/blob/master/topgear.asl.
+
 Based on Fork of [Pedro-Walter](https://github.com/pedro-walter/livesplit-autosplitters)
