@@ -1,27 +1,34 @@
 Um autosplitter para o maravilhoso Top Gear do SNES
 
-For english, click [here](https://github.com/pedro-walter/topgear-autosplitter/blob/main/README)
+For english, click [here](https://github.com/leomarx71/livesplit-autosplitters/blob/main/README.md)
 
 # Como usar
 
-Voce pode:
-- Baixar o arquivo topgear.asl desse repositório em algum lugar do seu PC
-- OU Clonar esse repositório usando git
+Downloads:
+- Baixe o topGearPlayer1.asl deste repositório em algum lugar do seu PC
+- Baixe o topGearPlayer2.asl deste repositório em algum lugar do seu PC
 
-Daí:
-1. No LiveSplit, clique com o botão direito e selecione "Edit Layout..."
-1. Clique no botão com sinal de +, selecione "Control" e depois clique em "Scriptable Auto Splitter". Aí dê um duplo clique nele.
-1. Clique em Browse e localize o arquivo .asl que você baixou ou que está no repositório que você clonou
+Então:
+1. No LiveSplit, clique com o botão direito e selecione "Editar Layout..."
+1. Clique em adicionar (o botão de mais), vá em "Controle" e depois em "Divisor Automático Scriptável" e clique duas vezes nele
+1. Clique em Procurar e localize o arquivo **topGearPlayer1.asl** que você baixou deste repositório.
 
-Com o autosplitter configurado quando você começar uma corrida o timer vai iniciar automaticamente e vai dar split quando o P1 cruzar a linha de chegada.
+2. Depois de ajustar a primeira instância do Livesplit e testar, crie uma cópia de toda a instalação do Livesplit em outro lugar
+2. No LiveSplit, clique com o botão direito e selecione "Editar Layout..."
+2. Clique em adicionar (o botão de mais), vá em "Controle" e depois em "Divisor Automático Scriptável" e clique duas vezes nele
+2. Clique em Procurar e localize o arquivo **topGearPlayer2.asl** que você baixou deste repositório.
 
-# Fale conosco!
+Com o split automático definido, quando você começar a primeira corrida, ele iniciará o cronômetro automaticamente e dividirá o tempo individualmente após o P1 cruzar a linha de chegada e após o P2/Computer cruza a linha de chegada.
 
-Estamos no [discord](https://discord.gg/Up8scCjkP9)! 
+# Como nos encontrar
 
-Caso ainda tenha problemas nos procure lá no discord ou abra um Issue aqui no github.
+E-mail games@leomarx.com. Há também uma comunidade de língua inglesa [aqui](https://discord.gg/BbecSMqFeF) e uma de língua portuguesa [aqui](https://discord.gg/fnjD7jFp)
+
+Se você ainda estiver com problemas, entre em contato comigo por e-mail ou discord (Leomarx Games) em um desses canais do discord ou abra um Issue aqui.
 
 # Créditos
 
-Baseado no original por [@rulojuka](https://github.com/rulojuka), encontrado em https://github.com/rulojuka/LiveSplitAutoSplitters/blob/master/topgear.asl
+Baseado no original de [@rulojuka](https://github.com/rulojuka), encontrado em https://github.com/rulojuka/LiveSplitAutoSplitters/blob/master/topgear.asl.
+
+Baseado no Fork de [Pedro-Walter](https://github.com/pedro-walter/livesplit-autosplitters)
 
