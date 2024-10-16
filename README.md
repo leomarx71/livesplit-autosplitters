@@ -14,6 +14,7 @@ Then:
 1. Click Browse and locate the **topGearPlayer1.asl** file you either downloaded from this the repository
 
 2. After adjust the first Livesplit instance create a copy of the whole Livesplit installation to another place
+3. On LiveSplit, right click and select "Edit Layout..."
 2. Click on add (the plus button), go to "Control" then "Scriptable Auto Splitter", then double click it
 2. Click Browse and locate the **topGearPlayer2.asl** file you either downloaded from this the repository
 
@@ -23,7 +24,7 @@ With the autosplitter set, when you start the first race it will start the timer
 
 We are at games@leomarx.com . There's also an english speaking community [here](https://discord.gg/BbecSMqFeF) and a portuguese one [here](https://discord.gg/fnjD7jFp)
 
-If you're still having trouble contact me by e-mail or discord (Leomarx Games) or open an Issue.
+If you're still having trouble contact me by e-mail or discord (Leomarx Games) in one of these channels or open an Issue.
 
 # Credits
 
