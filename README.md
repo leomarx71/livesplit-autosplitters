@@ -30,4 +30,6 @@ If you're still having trouble contact me by e-mail or discord (Leomarx Games) i
 
 Based on the original by [@rulojuka](https://github.com/rulojuka), found at https://github.com/rulojuka/LiveSplitAutoSplitters/blob/master/topgear.asl.
 
+Based on the original by [@UNHchabo](https://github.com/UNHchabo), found at https://github.com/UNHchabo/AutoSplitters/blob/master/SuperMetroid/LiveSplit.SuperMetroid.asl
+
 Based on Fork of [Pedro-Walter](https://github.com/pedro-walter/livesplit-autosplitters)
