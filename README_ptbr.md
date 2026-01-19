@@ -30,5 +30,7 @@ Se você ainda estiver com problemas, entre em contato comigo por e-mail ou disc
 
 Baseado no original de [@rulojuka](https://github.com/rulojuka), encontrado em https://github.com/rulojuka/LiveSplitAutoSplitters/blob/master/topgear.asl.
 
+Baseado no original de [@UNHchabo](https://github.com/UNHchabo), encontrado em https://github.com/UNHchabo/AutoSplitters/blob/master/SuperMetroid/LiveSplit.SuperMetroid.asl
+
 Baseado no Fork de [Pedro-Walter](https://github.com/pedro-walter/livesplit-autosplitters)
 
